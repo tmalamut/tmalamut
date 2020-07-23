@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Taylor Malamut and I'm currently a senior at Coastal Carolina University majoring in Information Systems with a cognate in Computer Science
+
+I am seeking full-time roles in software engineering, web development, and product management. 
+
+:inbox_tray: I can be reached on [**LinkedIn**](https://www.linkedin.com/in/tmalamut)
+
+
+
 <!--
 **tmalamut/tmalamut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
