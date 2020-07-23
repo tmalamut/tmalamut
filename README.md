@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Taylor Malamut and I'm currently a senior at Coastal Carolina University majoring in Information Systems with a cognate in Computer Science
+My name is Taylor Malamut and I'm currently a senior at Coastal Carolina University majoring in Information Systems with a cognate in Computer Science.
 
 I am seeking full-time roles in software engineering, web development, and product management. 
 
