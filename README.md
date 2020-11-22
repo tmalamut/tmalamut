@@ -4,11 +4,6 @@ My name is Taylor Malamut and I'm currently a senior at Coastal Carolina Univers
 
 :inbox_tray: I can be reached on [**LinkedIn**](https://www.linkedin.com/in/tmalamut)
 
-### Tools I use
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmalamut)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 <!--
 **tmalamut/tmalamut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
