@@ -5,8 +5,7 @@ My name is Taylor Malamut and I'm currently a senior at Coastal Carolina Univers
 :inbox_tray: I can be reached on [**LinkedIn**](https://www.linkedin.com/in/tmalamut)
 
 ### Tools I use
-
-[![Taylor's github stats](https://github-readme-stats.vercel.app/api?username=tmalamut?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmalamut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
