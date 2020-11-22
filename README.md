@@ -6,7 +6,7 @@ My name is Taylor Malamut and I'm currently a senior at Coastal Carolina Univers
 
 ### Tools I use
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmalamut&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Taylor's github stats](https://github-readme-stats.vercel.app/api?username=tmalamut&count_private=true)
 
 
 
