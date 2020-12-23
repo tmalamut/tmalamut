@@ -2,8 +2,6 @@
 
 My name is Taylor Malamut and I'm currently a senior at Coastal Carolina University (graduating May 2021) majoring in Information Systems with a cognate in Computer Science.
 
-🌱 I’m currently learning about Machine Learning
-
 :inbox_tray: I can be reached on [**LinkedIn**](https://www.linkedin.com/in/tmalamut)
 
 <!--
