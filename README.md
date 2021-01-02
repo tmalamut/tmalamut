@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 My name is **Taylor Malamut** and I'm currently a **senior** at **Coastal Carolina University** (graduating May 2021) majoring in **Information Systems** with a cognate in **Computer Science.**
 
