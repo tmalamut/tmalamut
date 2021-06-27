@@ -4,7 +4,7 @@ My name is **Taylor Malamut** and I'm a recent graduate of **Coastal Carolina Un
 
 In **August 2021**, I'll be joining **Capgemini** to work in **Software Development**! 
 
-**Currently learning:** Spring Boot
+**Currently learning:** [Elm](https://elm-lang.org/)
 
 :inbox_tray: I can be reached on [**LinkedIn**](https://www.linkedin.com/in/tmalamut)
 
