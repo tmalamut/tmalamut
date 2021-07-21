@@ -2,7 +2,7 @@
 
 My name is **Taylor Malamut** and I'm a recent graduate of **Coastal Carolina University**, earning a degree in **Information Systems** with a cognate in **Computer Science.**
 
-In **August 2021**, I'll be joining **Capgemini** to work in **Software Development**! 
+In **August 2021**, I'll be joining **Capgemini**!
 
 **Currently learning:** TypeScript
 
