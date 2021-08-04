@@ -1,10 +1,8 @@
 ### Hello! 👋
 
-My name is **Taylor Malamut** and I'm a recent graduate of **Coastal Carolina University**, earning a degree in **Information Systems** with a cognate in **Computer Science.**
+My name is **Taylor Malamut!** I'm a programmer and developer based in Nashville, TN.
 
 In **August 2021**, I'll be joining **Capgemini**!
-
-**Currently learning:** TypeScript
 
 :inbox_tray: I can be reached on [**LinkedIn**](https://www.linkedin.com/in/tmalamut)
 
