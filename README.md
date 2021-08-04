@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is **Taylor Malamut!** I'm a programmer and developer based in Nashville, TN.
+My name is **Taylor Malamut!** I'm a programmer and developer based in Nashville.
 
 In **August 2021**, I'll be joining **Capgemini**!
 
