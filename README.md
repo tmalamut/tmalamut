@@ -2,8 +2,6 @@
 
 My name is **Taylor Malamut!** I'm a programmer and developer based in Nashville.
 
-In **August 2021**, I'll be joining **Capgemini**!
-
 :inbox_tray: I can be reached on [**LinkedIn**](https://www.linkedin.com/in/tmalamut)
 
 <!--
