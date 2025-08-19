@@ -1,6 +1,5 @@
 ### Hello! 👋
 
-My name is **Taylor Malamut!** I'm a developer based in Nashville.
 
 :inbox_tray: I can be reached on [**LinkedIn**](https://www.linkedin.com/in/tmalamut)
 
